@@ -1,0 +1,6 @@
+lesson one: introduction to embedded systems
+eclipse installation done.
+github repository has been made successfully and subfolders has been made.
+assignment is done and a proof image has been added.
+12/10/2025
+Wael Osama
