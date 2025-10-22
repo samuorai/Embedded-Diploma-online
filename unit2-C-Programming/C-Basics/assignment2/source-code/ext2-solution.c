@@ -1,5 +1,5 @@
 /*
- * ext1-solution.c
+ * ext2-solution.c
  *
  *  Created on: Oct 22, 2025
  *      Author: Wael Osama
