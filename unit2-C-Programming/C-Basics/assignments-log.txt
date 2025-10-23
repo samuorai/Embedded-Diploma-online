@@ -14,3 +14,6 @@ There was some issues faced with Eclipse (buffering)but it has been solved.
 3- question #3 has been solved at 23 - 10 - 2025.
 4- question #4 has been solved at 23 - 10 - 2025.
 5- question #5 has been solved at 23 - 10 - 2025.
+6- question #6 has been solved at 23 - 10 - 2025.
+7- question #7 has been solved at 23 - 10 - 2025.
+8- question #8 has been solved at 23 - 10 - 2025.
